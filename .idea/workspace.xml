@@ -2,36 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9bccb0e-b11f-45aa-a11e-877e532175bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/API/Controllers/BaseApiController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/DTOs/UserDto.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/_guards/auth.guard.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/_models/user.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/_modules/shared.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/lists/lists.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/lists/lists.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/lists/lists.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/members/member-detail/member-detail.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/members/member-detail/member-detail.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/members/member-detail/member-detail.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/members/member-list/member-list.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/members/member-list/member-list.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/members/member-list/member-list.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/messages/messages.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/messages/messages.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/messages/messages.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/register/register.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/register/register.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/register/register.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API/Controllers/BuggyController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API/Data/Migrations/20210520082715_ExtendedUserEntity.Designer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API/Data/Migrations/20210520082715_ExtendedUserEntity.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API/Data/Seed.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API/Data/UserSeedData.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API/Entities/Photo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API/Errors/ApiException.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API/Extensions/DateTimeExtensions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API/Middleware/ExceptionMiddleware.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API/bin/Debug/net5.0/Data/UserSeedData.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API/bin/Debug/net5.0/Newtonsoft.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/_interceptors/error.interceptor.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/errors/not-found/not-found.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/errors/not-found/not-found.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/errors/not-found/not-found.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/errors/server-error/server-error.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/errors/server-error/server-error.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/errors/server-error/server-error.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/errors/test-errors/test-errors.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/errors/test-errors/test-errors.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/errors/test-errors/test-errors.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/API/API.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/API/API.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/API/Controllers/UsersController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/API/Controllers/UsersController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API/DTOs/RegisterDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/API/DTOs/RegisterDto.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/API/Data/Migrations/DataContextModelSnapshot.cs" beforeDir="false" afterPath="$PROJECT_DIR$/API/Data/Migrations/DataContextModelSnapshot.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/API/Entities/AppUser.cs" beforeDir="false" afterPath="$PROJECT_DIR$/API/Entities/AppUser.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/API/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/API/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/API/Startup.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/API/appsettings.Development.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/API/bin/Debug/net5.0/API.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/API/bin/Debug/net5.0/API.deps.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/API/bin/Debug/net5.0/API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/API/bin/Debug/net5.0/API.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/API/bin/Debug/net5.0/API.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/API/bin/Debug/net5.0/API.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/bin/Debug/net5.0/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/API/bin/Debug/net5.0/appsettings.Development.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/API/bin/Debug/net5.0/ref/API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/API/bin/Debug/net5.0/ref/API.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/API/datingapp.db" beforeDir="false" afterPath="$PROJECT_DIR$/API/datingapp.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/API/obj/API.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/API/obj/API.csproj.nuget.dgspec.json" afterDir="false" />
@@ -46,6 +48,11 @@
       <change beforePath="$PROJECT_DIR$/API/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/API/obj/project.nuget.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/API/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/API/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/API/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/API/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/app/nav/nav.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/nav/nav.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/app/nav/nav.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/nav/nav.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/tsconfig.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,11 +70,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1sgwRkBs8zrrbo6LkWnSDg2yFyQ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -88,7 +99,9 @@
       <workItem from="1621329773068" duration="12644000" />
       <workItem from="1621391931529" duration="8250000" />
       <workItem from="1621409249526" duration="133000" />
-      <workItem from="1621425681034" duration="768000" />
+      <workItem from="1621425681034" duration="2100000" />
+      <workItem from="1621478359638" duration="5920000" />
+      <workItem from="1621498374408" duration="1054000" />
     </task>
     <servers />
   </component>
@@ -106,5 +119,8 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

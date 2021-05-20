@@ -62,3 +62,7 @@ D:\ASP.NET ANGULAR\DatingApp\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jw
 D:\ASP.NET ANGULAR\DatingApp\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 D:\ASP.NET ANGULAR\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
 D:\ASP.NET ANGULAR\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ASP.NET ANGULAR\DatingApp\API\bin\Debug\net5.0\Data\UserSeedData.json
+D:\ASP.NET ANGULAR\DatingApp\API\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\ASP.NET ANGULAR\DatingApp\API\bin\Debug\net5.0\AutoMapper.dll
+D:\ASP.NET ANGULAR\DatingApp\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
