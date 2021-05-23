@@ -1,13 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "5KdR2cKmsN6VvhXREry+dM/J8D2q8T0kHrMr6mXvoB8Bpb6RrSUXkTPdWhd82PKMvjm0wi2r+z+x+PdSEjAtJQ==",
+  "dgSpecHash": "FBhGYmaWW2twIv0paPNr08bitKNI1AE84MZuieIYe2joQmuCjWiWwBTnzcO/KdJNlQUf3jupJF1LXb/NqoZjLg==",
   "success": true,
   "projectFilePath": "D:\\ASP.NET ANGULAR\\DatingApp\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MSI GE66\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\MSI GE66\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "C:\\Users\\MSI GE66\\.nuget\\packages\\cloudinarydotnet\\1.15.1\\cloudinarydotnet.1.15.1.nupkg.sha512",
     "C:\\Users\\MSI GE66\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\MSI GE66\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.6\\microsoft.aspnetcore.authentication.jwtbearer.5.0.6.nupkg.sha512",
+    "C:\\Users\\MSI GE66\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\MSI GE66\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\MSI GE66\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
     "C:\\Users\\MSI GE66\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\MSI GE66\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.6\\microsoft.data.sqlite.core.5.0.6.nupkg.sha512",
     "C:\\Users\\MSI GE66\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
@@ -29,6 +33,7 @@
     "C:\\Users\\MSI GE66\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\MSI GE66\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
     "C:\\Users\\MSI GE66\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\MSI GE66\\.nuget\\packages\\microsoft.extensions.webencoders\\5.0.3\\microsoft.extensions.webencoders.5.0.3.nupkg.sha512",
     "C:\\Users\\MSI GE66\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.11.0\\microsoft.identitymodel.jsonwebtokens.6.11.0.nupkg.sha512",
     "C:\\Users\\MSI GE66\\.nuget\\packages\\microsoft.identitymodel.logging\\6.11.0\\microsoft.identitymodel.logging.6.11.0.nupkg.sha512",
     "C:\\Users\\MSI GE66\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.7.1\\microsoft.identitymodel.protocols.6.7.1.nupkg.sha512",
@@ -50,7 +55,8 @@
     "C:\\Users\\MSI GE66\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.11.0\\system.identitymodel.tokens.jwt.6.11.0.nupkg.sha512",
     "C:\\Users\\MSI GE66\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\MSI GE66\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
-    "C:\\Users\\MSI GE66\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+    "C:\\Users\\MSI GE66\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "C:\\Users\\MSI GE66\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }
