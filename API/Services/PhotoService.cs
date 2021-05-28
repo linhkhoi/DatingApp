@@ -14,7 +14,7 @@ namespace API.Services
 
         public PhotoService(IOptions<CloudinarySettings> config)
         {
-            var acc = new Account(config.Value.CouldName,config.Value.ApiKey,config.Value.ApiSecret);
+            var acc = new Account(config.Value.CloudName,config.Value.ApiKey,config.Value.ApiSecret);
             _cloudinary = new Cloudinary(acc);
         }
         public async Task<ImageUploadResult> AddPhotoAsync(IFormFile file)
